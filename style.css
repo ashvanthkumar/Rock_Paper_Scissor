@@ -1,0 +1,41 @@
+*{
+    color:black;
+   
+}
+
+.container{
+    background-color: bisque;
+    width:400px;
+    height:500px;
+    border: 1px solid rgb(239, 98, 98);
+    border-radius: 5%;
+    text-align: center;
+    margin:50px 500px 50px 400px; 
+    padding: 20px;
+    
+}
+img{
+    cursor: pointer;
+    border-radius: 5%;
+}
+
+h3{
+    display: inline;
+}
+
+h4{
+    display: inline;
+}
+
+ul{
+    list-style-type: none;
+}
+
+#reset{
+    border-radius: 5px;
+    background-color: rgb(246, 246, 90);
+}
+
+h1{
+    color: rgb(18, 201, 18);
+}
